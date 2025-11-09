@@ -1,6 +1,4 @@
-<div align="center">
-   <img src="https://raw.githubusercontent.com/aminehamrouni24/reactjs-ai-summarizer/main/public/logo.png" alt="GulfAI Summarizer Logo" width="100" height="100" style="border-radius:12px;">
-</div>
+ 
 
 <h1 align="center">🧠 ReactJS AI Summarizer</h1>
 
@@ -41,7 +39,7 @@ Key highlights:
 
 ## 🌐 Live Demo
 
-🔗 **Project Link:** [https://reactjs-ai-summarizer.vercel.app]( )  
+🔗 **Project Link:**  [https://reactjs-ai-summarizer.vercel.app](https://article-summarizer-with-ai.vercel.app/)]   
 📦 **GitHub Repo:** [https://github.com/aminehamrouni24/Article-Summarizer-with-AI](https://github.com/aminehamrouni24/Article-Summarizer-with-AI)
 
 ---
